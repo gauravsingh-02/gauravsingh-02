@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering (CSE) student p
 
 ## Contribution Summary
 
-![Contribution Bar](https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh-02&hide_border=true&background=FFFFFF00&stroke=0000&ring=207de5&fire=DD2727&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=555555&currStreakNum=555555)
+![Contribution Bar](https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh-02&hide_border=true&background=FFFFFF&stroke=0000&ring=207de5&fire=DD2727&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=555555&currStreakNum=555555)
 
 ## Let's Connect
 
