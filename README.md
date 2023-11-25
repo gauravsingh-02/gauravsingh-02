@@ -11,30 +11,20 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering (CSE) student p
 - 🪟 Familiar with Windows operating system.
 - 🚀 Using GitHub to showcase my skills and explore new technologies.
 
-## Skills
-
 ### Languages
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   
-## Operating Systems
+### Operating Systems
   
 - ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Tools
+### Tools
   
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Stats
-
-[![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsingh-02&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contribution Summary
-
-![Contribution Bar](https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh-02&hide_border=true&background=FFFFFF&stroke=0000&ring=207de5&fire=DD2727&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=555555&currStreakNum=555555)
 
 ## Let's Connect
 
