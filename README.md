@@ -1,32 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=500&color=00FF00&background=000000¢er=true&vCenter=true&width=460&lines=Hey+There,+I’m+Gaurav+Singh!" alt="Header SVG" />
+  <span style="font-family: 'Orbitron', monospace; font-size: 48px; color: #00ffcc; text-shadow: 0 0 15px #00ffcc, 0 0 25px #00ffcc; letter-spacing: 2px;">Hey There, I’m Gaurav Singh! 🚀</span>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravsingh-02&color=blue" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=gauravsingh-02&color=00ffcc&style=flat-square" alt="Profile Views" /> 
   <a href="https://www.linkedin.com/in/gaurav-singh-com">
     <img src="https://img.shields.io/badge/Gaurav%20Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <em>Accessing the digital matrix... I’m a Computer Science Engineering (B.Tech) student hacking through cybersecurity, innovation, and tech exploration.</em>
+  <em>🔥 Diving into the cyber abyss | B.Tech in CSE | Hacking the future, one line at a time 🔥</em>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌌 Cyber Trailblazer
 
-- 🎓 Pursuing a B.Tech in Computer Science Engineering  
-- 🔒 Cybersecurity geek and ethical hacking enthusiast  
-- 💻 Crafting projects that push boundaries  
-- 🌌 Using GitHub to master skills and embrace new technologies  
+- 🎓 B.Tech in Computer Science Engineering  
+- 🔐 Cybersecurity ninja | Ethical hacking aficionado  
+- 💾 Building projects that spark innovation  
+- 🌠 GitHub is my playground for tech mastery  
 
 ---
 
-## 💻 Languages
+## 💾 Code Arsenal
 
-A growing arsenal of coding languages I wield:
+Wielding these weapons of creation:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -41,9 +41,9 @@ A growing arsenal of coding languages I wield:
 
 ---
 
-## 🖥️ Operating Systems
+## 🖥️ System Nexus
 
-Exploring these OS galaxies (currently rocking WSL2 with Debian):
+Navigating these digital realms (currently vibing with WSL2 + Debian):
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
@@ -58,9 +58,9 @@ Exploring these OS galaxies (currently rocking WSL2 with Debian):
 
 ---
 
-## 🛠️ Tools & Libraries
+## 🛠️ Tech Forge
 
-My toolkit for coding, data, and creation:
+Crafting with these tools of the trade:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -77,10 +77,10 @@ My toolkit for coding, data, and creation:
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Sync Up
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=500&color=00FF00&background=000000¢er=true&vCenter=true&width=400&lines=[*]+Establishing+Connection..." alt="Connect SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00FFCC&background=1A1A1A¢er=true&vCenter=true&width=430&lines=+[*]+Syncing+to+the+Grid...+🌠" alt="Connect SVG" />
 </p>
 
 <p align="center">
@@ -90,9 +90,9 @@ My toolkit for coding, data, and creation:
 </p>
 
 <p align="center">
-  <em>Let’s hack the future together! // Connection Terminated [0xFF] 🚀</em>
+  <em>🌀 Let’s reshape the digital frontier together! // Sync Complete [0xFF] 🌀</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=2000&pause=1000&color=00FF00&background=000000¢er=true&vCenter=true&width=170&lines=...+System+Offline+..." alt="Footer SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=1000&color=00FFCC&background=1A1A1A¢er=true&vCenter=true&width=275&lines=0xHACK+_+Grid+Secured+_+0xHACK" alt="Footer SVG" />
 </p>
