@@ -75,6 +75,8 @@ Crafting with these tools of the trade:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
+- 🔧 Check out my [VS Code settings, WSL2 setup, and aliases](https://gist.github.com/gauravsingh-02) on GitHub Gist!
+
 ---
 
 ## 🌐 Sync Up
